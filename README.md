@@ -1,2 +1,2 @@
 # techhost
-Bot submition for techhost do not fork sincr project can be unstable thank you
+Bot submition for techhost do not fork since project can be unstable thank you
